@@ -1,0 +1,36 @@
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GameObjects\bin\Debug\GameObjects.dll
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GameObjects\bin\Debug\GameObjects.pdb
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GameObjects\obj\Debug\GameObjects.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GameObjects\obj\Debug\GameObjects.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GameObjects\obj\Debug\GameObjects.dll
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GameObjects\obj\Debug\GameObjects.pdb
+C:\Users\user\Desktop\Final Card Games\Card Games\GameObjects\bin\Debug\GameObjects.dll
+C:\Users\user\Desktop\Final Card Games\Card Games\GameObjects\bin\Debug\GameObjects.pdb
+C:\Users\user\Desktop\Final Card Games\Card Games\GameObjects\obj\Debug\GameObjects.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Final Card Games\Card Games\GameObjects\obj\Debug\GameObjects.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Final Card Games\Card Games\GameObjects\obj\Debug\GameObjects.dll
+C:\Users\user\Desktop\Final Card Games\Card Games\GameObjects\obj\Debug\GameObjects.pdb
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GameObjects\bin\Debug\GameObjects.dll
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GameObjects\bin\Debug\GameObjects.pdb
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GameObjects\obj\Debug\GameObjects.csproj.CoreCompileInputs.cache
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GameObjects\obj\Debug\GameObjects.dll
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GameObjects\obj\Debug\GameObjects.pdb
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GameObjects\obj\Debug\GameObjects.csprojResolveAssemblyReference.cache
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GameObjects\bin\Debug\GameObjects.dll
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GameObjects\bin\Debug\GameObjects.pdb
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GameObjects\obj\Debug\GameObjects.csprojAssemblyReference.cache
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GameObjects\obj\Debug\GameObjects.csproj.CoreCompileInputs.cache
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GameObjects\obj\Debug\GameObjects.dll
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GameObjects\obj\Debug\GameObjects.pdb
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GameObjects\bin\Debug\GameObjects.dll
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GameObjects\bin\Debug\GameObjects.pdb
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GameObjects\obj\Debug\GameObjects.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GameObjects\obj\Debug\GameObjects.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GameObjects\obj\Debug\GameObjects.dll
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GameObjects\obj\Debug\GameObjects.pdb
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GameObjects\bin\Debug\GameObjects.dll
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GameObjects\bin\Debug\GameObjects.pdb
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GameObjects\obj\Debug\GameObjects.csprojAssemblyReference.cache
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GameObjects\obj\Debug\GameObjects.csproj.CoreCompileInputs.cache
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GameObjects\obj\Debug\GameObjects.dll
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GameObjects\obj\Debug\GameObjects.pdb

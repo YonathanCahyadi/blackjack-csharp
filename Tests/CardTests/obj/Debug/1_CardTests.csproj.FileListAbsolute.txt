@@ -1,0 +1,63 @@
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\bin\Debug\CardTests.dll
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\bin\Debug\CardTests.pdb
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\bin\Debug\GameObjects.dll
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\bin\Debug\GameObjects.pdb
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\obj\Debug\1_CardTests.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\obj\Debug\1_CardTests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\obj\Debug\1_CardTests.csproj.CopyComplete
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\obj\Debug\CardTests.dll
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\Tests\CardTests\obj\Debug\CardTests.pdb
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\bin\Debug\CardTests.dll
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\bin\Debug\CardTests.pdb
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\bin\Debug\GameObjects.dll
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\bin\Debug\GameObjects.pdb
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\obj\Debug\1_CardTests.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\obj\Debug\1_CardTests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\obj\Debug\1_CardTests.csproj.CopyComplete
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\obj\Debug\CardTests.dll
+C:\Users\user\Desktop\Final Card Games\Card Games\Tests\CardTests\obj\Debug\CardTests.pdb
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\CardTests.dll
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\CardTests.pdb
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\GameObjects.dll
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\GameObjects.pdb
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\obj\Debug\1_CardTests.csprojResolveAssemblyReference.cache
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\obj\Debug\1_CardTests.csproj.CoreCompileInputs.cache
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\obj\Debug\CardTests.dll
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\Tests\CardTests\obj\Debug\CardTests.pdb
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\CardTests.dll
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\CardTests.pdb
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\GameObjects.dll
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\GameObjects.pdb
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\obj\Debug\1_CardTests.csprojAssemblyReference.cache
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\obj\Debug\1_CardTests.csproj.CoreCompileInputs.cache
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\obj\Debug\1_CardTests.csproj.CopyComplete
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\obj\Debug\CardTests.dll
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\Tests\CardTests\obj\Debug\CardTests.pdb

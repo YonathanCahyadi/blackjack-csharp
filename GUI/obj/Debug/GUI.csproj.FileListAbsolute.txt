@@ -1,0 +1,149 @@
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\bin\Debug\GUI.exe.config
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\bin\Debug\GUI.exe
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\bin\Debug\GUI.pdb
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\bin\Debug\GameObjects.dll
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\bin\Debug\Games.dll
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\bin\Debug\GameObjects.pdb
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\bin\Debug\Games.pdb
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\obj\Debug\GUI.Blackjack_Form.resources
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\obj\Debug\GUI.exe
+C:\Users\user\Desktop\Card Games(1) (1)\Card Games\GUI\obj\Debug\GUI.pdb
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\bin\Debug\GUI.exe.config
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\bin\Debug\GUI.exe
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\bin\Debug\GUI.pdb
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\bin\Debug\GameObjects.dll
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\bin\Debug\Games.dll
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\bin\Debug\GameObjects.pdb
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\bin\Debug\Games.pdb
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\obj\Debug\GUI.Blackjack_Form.resources
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\obj\Debug\GUI.exe
+C:\Users\user\Desktop\Final Card Games\Card Games\GUI\obj\Debug\GUI.pdb
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.exe.config
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.exe
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.pdb
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GUI\bin\Debug\GameObjects.dll
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GUI\bin\Debug\Games.dll
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GUI\bin\Debug\GameObjects.pdb
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GUI\bin\Debug\Games.pdb
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.Blackjack_Form.resources
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.exe
+C:\Users\n10149953\Desktop\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.pdb
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.exe.config
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.exe
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.pdb
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GameObjects.dll
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\Games.dll
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GameObjects.pdb
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\Games.pdb
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.Blackjack_Form.resources
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.exe
+C:\Users\cahya\Desktop\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.pdb
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.exe.config
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.exe
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.pdb
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GameObjects.dll
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\Games.dll
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GameObjects.pdb
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\Games.pdb
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.Blackjack_Form.resources
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.exe
+C:\Users\user\Downloads\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.pdb
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.exe.config
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.exe
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.pdb
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GameObjects.dll
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\Games.dll
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GameObjects.pdb
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\Games.pdb
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.Blackjack_Form.resources
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.exe
+C:\Users\cahya\Downloads\Music\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.pdb
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.exe.config
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.exe
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GUI.pdb
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GameObjects.dll
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\Games.dll
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\GameObjects.pdb
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\bin\Debug\Games.pdb
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.Blackjack_Form.resources
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.exe
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\Card Games\GUI\obj\Debug\GUI.pdb
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\bin\Debug\GUI.exe.config
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\bin\Debug\GUI.exe
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\bin\Debug\GUI.pdb
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\bin\Debug\GameObjects.dll
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\bin\Debug\Games.dll
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\bin\Debug\GameObjects.pdb
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\bin\Debug\Games.pdb
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\obj\Debug\GUI.Blackjack_Form.resources
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\obj\Debug\GUI.exe
+D:\QUT\ITD 121\Final Card Games blackjack\Final Card Games blackjack\new Card Games\GUI\obj\Debug\GUI.pdb
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\bin\Debug\GUI.exe.config
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\bin\Debug\GUI.exe
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\bin\Debug\GUI.pdb
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\bin\Debug\GameObjects.dll
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\bin\Debug\Games.dll
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\bin\Debug\GameObjects.pdb
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\bin\Debug\Games.pdb
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.Blackjack_Form.resources
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.exe
+C:\Users\user\Desktop\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.pdb
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\bin\Debug\GUI.exe.config
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\bin\Debug\GUI.exe
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\bin\Debug\GUI.pdb
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\bin\Debug\GameObjects.dll
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\bin\Debug\Games.dll
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\bin\Debug\GameObjects.pdb
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\bin\Debug\Games.pdb
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.Blackjack_Form.resources
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.exe
+C:\Users\cahya\Downloads\Compressed\Final New Card Games Finish\Final New Card Games Finish\GUI\obj\Debug\GUI.pdb
